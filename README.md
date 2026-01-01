@@ -60,7 +60,7 @@ Secure APIs using PDO, prepared statements, and best practices.
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/anishchakraborty
+- GitHub: https://github.com/chakrabortyanish
 - Email: chakrabortyanish981@gmail.com
 ---
 
