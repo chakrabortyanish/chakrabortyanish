@@ -5,7 +5,9 @@
 I build clean, scalable, and production-ready web applications using modern technologies.  
 Currently working on **full-stack projects** like Job Portals, Admin Panels, and REST APIs.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649452-3c3d9c7a-9d19-4e76-9f95-77c2c0f57c4f.gif" width="100%" />
+</p>
 
 ## 🔧 Tech Stack
 
