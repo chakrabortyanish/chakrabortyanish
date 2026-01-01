@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  💻 <strong>Full Stack Web Developer</strong> | 🚀 <strong>Passionate Learner</strong> | 🧠 <strong>Problem Solver</strong>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649452-3c3d9c7a-9d19-4e76-9f95-77c2c0f57c4f.gif" width="100%" />
 </p>
 
