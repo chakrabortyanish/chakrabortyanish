@@ -10,8 +10,7 @@
 
 ## 👋 About Me
 
-I build clean, scalable, and production-ready web applications using modern technologies.  
-Focused on **full-stack development**, real-world projects, and continuous improvement.
+I build clean, scalable, and production-ready web applications using modern technologies. Focused on **full-stack development**, real-world projects, and continuous improvement.
 
 ---
 
