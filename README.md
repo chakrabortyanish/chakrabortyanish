@@ -64,4 +64,4 @@ Secure APIs using PDO, prepared statements, and best practices.
 - Email: chakrabortyanish981@gmail.com
 ---
 
-⭐ If you like my work, feel free to star the repositories!
+<p align="center">⭐ If you like my work, feel free to star the repositories!</p>
