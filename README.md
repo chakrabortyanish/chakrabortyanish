@@ -18,32 +18,37 @@ Focused on **full-stack development**, real-world projects, and continuous impro
 ## 🔧 Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40"/>
 </p>
 
 ### Backend
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" width="40"/>
 </p>
 
 ### Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40"/>
 </p>
 
 ### Tools
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Replit-Dark.svg" width="40"/>
 </p>
 
 ---
