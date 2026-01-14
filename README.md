@@ -59,11 +59,11 @@ I build clean, scalable, and production-ready web applications using modern tech
 🔹 **Job Portal Web Application**  
 A full-stack job portal with recruiter dashboard, authentication, and scalable backend.
 
-🔹 **User Management System (Admin Panel)**  
-Role-based access, CRUD operations, soft delete, search & pagination.
+🔹 **User Management System**  
+Secure APIs using PDO, prepared statements, and best practices, CRUD operations, soft delete.
 
-🔹 **REST API with PHP & MySQL**  
-Secure APIs using PDO, prepared statements, and best practices.
+🔹 **E-Commerce Web Application**  
+A full-stack e-commerce platform featuring product management, user authentication, shopping cart built with scalable and clean code practices.
 
 👉 Check the **Pinned Repositories** below 👇 for live code & details.
 
