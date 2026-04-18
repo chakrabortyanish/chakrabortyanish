@@ -105,12 +105,12 @@ I build clean, scalable, and production-ready web applications using modern tech
       <p><strong>Focus:</strong> Full-stack development, dashboards, authentication, backend APIs.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>👥 User Management System</h3>
-      <p>Secure CRUD system using PDO, prepared statements, soft delete, and clean backend practices.</p>
-      <p><strong>Focus:</strong> API security, database operations, backend structure.</p>
+      <h3>AI-Resume-Analyzer</h3>
+      <p>An intelligent web application that analyzes resumes and provides detailed insights such as ATS score.</p>
+      <p><strong>Focus:</strong> ATS Score Calculation, Job Role Matching, Skill Extraction, Smart Suggestions, Fast and Responsive UI</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛒 E-Commerce Web Application</h3>
+      <h3>E-Commerce Web Application</h3>
       <p>A scalable e-commerce platform featuring product management, user authentication, and shopping cart functionality.</p>
       <p><strong>Focus:</strong> Product flow, authentication, scalable clean code.</p>
     </td>
@@ -188,7 +188,7 @@ I build clean, scalable, and production-ready web applications using modern tech
 
 ---
 
-## 🏆 GitHub Profile Summary
+<!-- ## 🏆 GitHub Profile Summary
 
 <div align="center">
 
@@ -196,7 +196,7 @@ I build clean, scalable, and production-ready web applications using modern tech
 
 </div>
 
----
+--- -->
 
 ## 📫 Connect With Me
 
