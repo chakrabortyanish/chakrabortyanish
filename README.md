@@ -100,19 +100,30 @@ I build clean, scalable, and production-ready web applications using modern tech
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>💼 Job Portal Web Application</h3>
-      <p>A full-stack job portal with recruiter dashboard, authentication, and scalable backend architecture.</p>
-      <p><strong>Focus:</strong> Full-stack development, dashboards, authentication, backend APIs.</p>
+      <h3>💼 Job Portal</h3>
+      <img width="1296" height="550" alt="image" src="https://github.com/user-attachments/assets/3fd4a7fb-0c78-4ae6-93c8-c7987d95463a" />
+      <br />
+      <a href="https://job-portal-web-app-mauve.vercel.app/">🌐 Live Demo</a> | 
+      <a href="https://github.com/chakrabortyanish/JOB_PORTAL_WEB_APP">📂 Code</a>
+      <br />
+      <p><small>JWT Auth • Dashboard • REST API</small></p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI-Resume-Analyzer</h3>
-      <p>An intelligent web application that analyzes resumes and provides detailed insights such as ATS score.</p>
-      <p><strong>Focus:</strong> ATS Score Calculation, Job Role Matching, Skill Extraction, Smart Suggestions, Fast and Responsive UI</p>
+      <h3>🤖 AI Resume Analyzer</h3>
+      <img width="1197" height="633" alt="image" src="https://github.com/user-attachments/assets/2a656331-e4b0-4b5e-993f-72ff9a52d040" />
+      <br />
+      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/">🌐 Live Demo</a> | 
+      <a href="https://github.com/chakrabortyanish/AI-Resume-Analyzer">📂 Code</a>
+      <br />
+       <p><small>ATS Score • AI Analysis • Skill Matching</small></p>
     </td>
     <td width="33%" valign="top">
-      <h3>E-Commerce Web Application</h3>
-      <p>A scalable e-commerce platform featuring product management, user authentication, and shopping cart functionality.</p>
-      <p><strong>Focus:</strong> Product flow, authentication, scalable clean code.</p>
+      <h3>🛒 E-Commerce</h3>
+      <img width="1260" height="612" alt="image" src="https://github.com/user-attachments/assets/67a886ed-1f18-47dc-b6c6-7af966e26021" />
+      <br />
+      <a href="https://grovo-grocery-store.vercel.app/">🌐 Live Demo</a> | 
+      <a href="https://github.com/chakrabortyanish/GROVO-Grocery-Store">📂 Code</a>
+      <p><small>Cart • Auth • Product Flow</small></p>
     </td>
   </tr>
 </table>
