@@ -140,7 +140,7 @@ I build clean, scalable, and production-ready web applications using modern tech
 
 ---
 
-## 📈 Contribution Activity
+<!--## 📈 Contribution Activity
 
 <div align="center">
 
@@ -148,42 +148,19 @@ I build clean, scalable, and production-ready web applications using modern tech
 
 </div>
 
----
-
+--- -->
 ## 🌱 Currently Learning
 
 <details open>
   <summary><strong>Learning Roadmap</strong></summary>
   <br />
   <ul>
-    <li>Advanced Backend Architecture</li>
-    <li>Production-level API Security</li>
-    <li>System Design Basics</li>
-    <li>Scalable Full-Stack Application Structure</li>
-    <li>Deployment, performance, and clean documentation</li>
+    <li>Advanced Backend Architecture (Node.js + Microservices)</li>
+    <li>API Security (JWT, OAuth, Rate Limiting)</li>
+    <li>System Design Basics (Load Balancing, Caching, DB Scaling)</li>
+    <li>Full-stack scaling (React + Node + MongoDB)</li>
+    <li>Deployment (Docker, CI/CD, Cloudinary basics)</li>
   </ul>
-</details>
-
----
-
-## 💡 What I Care About
-
-<details>
-  <summary><strong>Clean Code</strong></summary>
-  <br />
-  I like writing code that is readable, maintainable, and easy to improve later.
-</details>
-
-<details>
-  <summary><strong>Real-World Projects</strong></summary>
-  <br />
-  I focus on projects that include practical features such as authentication, CRUD operations, dashboards, database design, and API security.
-</details>
-
-<details>
-  <summary><strong>Continuous Improvement</strong></summary>
-  <br />
-  Every project is a chance to learn better structure, stronger logic, cleaner UI, and more secure backend development.
 </details>
 
 ---
@@ -214,12 +191,9 @@ I build clean, scalable, and production-ready web applications using modern tech
 ---
 
 <div align="center">
-
-### ⭐ If you like my work, feel free to star my repositories!
-
 <strong>Thanks for visiting my profile.</strong>
 
-<br /><br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer Wave" />
 
