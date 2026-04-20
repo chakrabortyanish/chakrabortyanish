@@ -4,7 +4,7 @@
 <a href="https://github.com/chakrabortyanish">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 </a>
-
+<!--
 <p>
   <a href="https://github.com/chakrabortyanish?tab=followers">
     <img src="https://img.shields.io/github/followers/chakrabortyanish?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub Followers" />
@@ -17,10 +17,10 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=chakrabortyanish&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile Views" />
 </p>
-
+-->
 </div>
 
----
+
 
 ## 👋 About Me
 
