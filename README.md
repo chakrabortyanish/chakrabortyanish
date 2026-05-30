@@ -66,8 +66,9 @@ I build clean, scalable, and production-ready web applications using modern tech
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="45" alt="Express.js" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="45" alt="PHP" />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" width="45" alt="Nginx" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" width="45" alt="NPM" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" width="45" alt="Nginx" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GraphQL-Dark.svg" width="45" alt="GraphQL" />
   </p>
 </details>
 
@@ -103,8 +104,7 @@ I build clean, scalable, and production-ready web applications using modern tech
       <h3>💼 Job Portal</h3>
       <img width="1296" height="550" alt="image" src="https://github.com/user-attachments/assets/3fd4a7fb-0c78-4ae6-93c8-c7987d95463a" />
       <br />
-      <a href="https://job-portal-web-app-mauve.vercel.app/">🌐 Live Demo</a> | 
-      <a href="https://github.com/chakrabortyanish/JOB_PORTAL_WEB_APP">📂 Code</a>
+      <a href="https://job-portal-web-app-mauve.vercel.app/">🌐 Live Demo</a>
       <br />
       <p><small>JWT Auth • Dashboard • REST API</small></p>
     </td>
@@ -112,8 +112,7 @@ I build clean, scalable, and production-ready web applications using modern tech
       <h3>🤖 AI Resume Analyzer</h3>
       <img width="1197" height="633" alt="image" src="https://github.com/user-attachments/assets/2a656331-e4b0-4b5e-993f-72ff9a52d040" />
       <br />
-      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/">🌐 Live Demo</a> | 
-      <a href="https://github.com/chakrabortyanish/AI-Resume-Analyzer">📂 Code</a>
+      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/">🌐 Live Demo</a>
       <br />
        <p><small>ATS Score • AI Analysis • Skill Matching</small></p>
     </td>
@@ -121,8 +120,7 @@ I build clean, scalable, and production-ready web applications using modern tech
       <h3>🛒 E-Commerce</h3>
       <img width="1260" height="612" alt="image" src="https://github.com/user-attachments/assets/67a886ed-1f18-47dc-b6c6-7af966e26021" />
       <br />
-      <a href="https://grovo-grocery-store.vercel.app/">🌐 Live Demo</a> | 
-      <a href="https://github.com/chakrabortyanish/GROVO-Grocery-Store">📂 Code</a>
+      <a href="https://grovo-grocery-store.vercel.app/">🌐 Live Demo</a>
       <p><small>Cart • Auth • Product Flow</small></p>
     </td>
   </tr>
