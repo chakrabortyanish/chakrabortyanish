@@ -140,12 +140,11 @@ I build clean, scalable, and production-ready web applications using modern tech
 
 <div align="center">
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=chakrabortyanish&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="175" src="https://streak-stats.demolab.com?user=chakrabortyanish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyanish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=chakrabortyanish&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=chakrabortyanish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chakrabortyanish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
