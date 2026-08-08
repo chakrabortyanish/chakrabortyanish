@@ -40,10 +40,10 @@ I build clean, scalable, and production-ready web applications using modern tech
   </tr>
 </table>
 
-<details close>
+<!--<details close>
   <summary align="center"><strong>More Info...</strong></summary>
   <br />
-  
+ --> 
   ---
   
   ## 🔧 Tech Stack
@@ -208,8 +208,6 @@ I build clean, scalable, and production-ready web applications using modern tech
   </div>
   
   <br />
-
-</details>
 
 <div align="center">
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer Wave" />
