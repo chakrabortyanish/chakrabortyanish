@@ -20,82 +20,115 @@
 -->
 </div>
 
+<br/>
+<br/>
 
+<div align="center">
+  <h2>👋 About Me</h2>
+  <p><i>**Full-Stack Engineer** dedicated to architecting clean, scalable, and production-ready web systems.</i></p>
 
-## 👋 About Me
-I build clean, scalable, and production-ready web applications using modern technologies. I am focused on **full-stack development**, real-world projects, secure backend systems, and continuous improvement.
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Backend-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mindset-Continuous%20Growth-green?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Goal-Impactful%20Software-orange?style=for-the-badge&logo=rocket&logoColor=white" />
+  </p>
+</div>
 
-<table align="center">
+<br />
+
+<table align="center" width="100%">
   <tr>
-    <td><strong>🚀 Focus</strong></td>
-    <td>Full-stack web applications, backend APIs, authentication, dashboards, and production-ready systems.</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Mindset</strong></td>
-    <td>Build practical projects, write clean code, learn deeply, and improve every version.</td>
-  </tr>
-  <tr>
-    <td><strong>🎯 Goal</strong></td>
-    <td>Create useful, secure, scalable, and reliable software that solves real problems.</td>
+    <td width="33%" align="center">
+      <h3>🚀 Focus</h3>
+      <p>Full-stack web applications, RESTful & GraphQL APIs, secure authentication, and scalable architectures.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🧠 Mindset</h3>
+      <p>Writing clean, maintainable code, building deep technical foundations, and iterating with every release.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎯 Goal</h3>
+      <p>Engineering reliable, high-performance software that solves real-world problems effectively.</p>
+    </td>
   </tr>
 </table>
-
 <!--<details close>
   <summary align="center"><strong>More Info...</strong></summary>
   <br />
  --> 
+ 
   ---
   
   ## 🔧 Tech Stack
-  
-  <details open>
-    <summary><strong>🎨 Frontend Development</strong></summary>
-    <br />
-    <p align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="45" alt="HTML" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="45" alt="CSS" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="45" alt="JavaScript" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="45" alt="React" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" width="45" alt="Redux" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="45" alt="Tailwind CSS" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="45" alt="Bootstrap" />
-    </p>
-  </details>
-  
-  <details open>
-    <summary><strong>⚙️ Backend Development</strong></summary>
-    <br />
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="45" alt="Express.js" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="45" alt="PHP" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" width="45" alt="NPM" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" width="45" alt="Nginx" />
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GraphQL-Dark.svg" width="45" alt="GraphQL" />
-    </p>
-  </details>
-  
-  <details open>
-    <summary><strong>🗄️ Database</strong></summary>
-    <br />
-    <p align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="45" alt="MongoDB" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="45" alt="MySQL" />
-    </p>
-  </details>
-  
-  <details open>
-    <summary><strong>🛠️ Tools & Platforms</strong></summary>
-    <br />
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="45" alt="GitHub" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="45" alt="Postman" />
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="45" alt="VS Code" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Replit-Dark.svg" width="45" alt="Replit" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="45" alt="Docker" />
-    </p>
-  </details>
+
+<details open>
+  <summary><strong>🎨 Frontend Development</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS3" />
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" title="Redux" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
+  </div>
+  <br />
+</details>
+
+<details open>
+  <summary><strong>⚙️ Backend Development</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js" />
+    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" />
+    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" title="GraphQL" />
+    <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" title="Nginx" />
+    <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" title="NPM" />
+  </div>
+  <br />
+</details>
+
+<details open>
+  <summary><strong>🗄️ Database</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
+  </div>
+  <br />
+</details>
+
+<details open>
+  <summary><strong>🚀 Deployment & Cloud Services</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
+    <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" title="Netlify" />
+    <img  width="48" height="48" src="https://github.com/user-attachments/assets/ea3ae78b-2f51-4554-8316-fd4ba5c69793" alt="Cloudinary" title="Cloudinary" />
+    <img width="48" height="48" src="https://github.com/user-attachments/assets/51349c1d-4c9c-4f89-b7f6-854f5a62ea78" alt="render" title="Render"/>
+    <!--<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" />
+    <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase" /> 
+    -->
+  </div>
+  <br />
+</details>
+
+<details open>
+  <summary><strong>🛠️ Tools & Platforms</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
+    <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="Replit" title="Replit" />
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
+  </div>
+  <br />
+</details>
   
   ---
   
