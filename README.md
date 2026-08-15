@@ -59,120 +59,117 @@
  
   ---
   
-  ## 🔧 Tech Stack
+  <h2 align="center">⚡ Technical Arsenal</h2>
 
-<details open>
-  <summary><strong>🎨 Frontend Development</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS3" />
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
-    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" title="Redux" />
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
-  </div>
-  <br />
-</details>
+<div align="center">
+  <!-- Frontend -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </p>
 
-<details open>
-  <summary><strong>⚙️ Backend Development</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" />
-    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js" />
-    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" />
-    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" title="GraphQL" />
-    <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" title="Nginx" />
-    <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" title="NPM" />
-  </div>
-  <br />
-</details>
+  <!-- Backend & Database -->
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
 
-<details open>
-  <summary><strong>🗄️ Database</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
-  </div>
-  <br />
-</details>
+  <!-- Cloud -->
+  <p>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  </p>
 
-<details open>
-  <summary><strong>🚀 Deployment & Cloud Services</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
-    <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" title="Netlify" />
-    <img  width="48" height="48" src="https://github.com/user-attachments/assets/ea3ae78b-2f51-4554-8316-fd4ba5c69793" alt="Cloudinary" title="Cloudinary" />
-    <img width="48" height="48" src="https://github.com/user-attachments/assets/51349c1d-4c9c-4f89-b7f6-854f5a62ea78" alt="render" title="Render"/>
-    <!--<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" />
-    <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase" /> 
-    -->
-  </div>
-  <br />
-</details>
-
-<details open>
-  <summary><strong>🛠️ Tools & Platforms</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
-    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
-    <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="Replit" title="Replit" />
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
-  </div>
-  <br />
-</details>
+  <!-- Tools -->
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  </p>
+</div>
   
   ---
   
-  ## 🚀 Featured Projects
-  
-  <table align="center">
-    <tr>
-      <td width="33%" valign="top">
-        <h3>💼 Job Portal</h3>
-        <img width="1296" height="550" alt="image" src="https://github.com/user-attachments/assets/3fd4a7fb-0c78-4ae6-93c8-c7987d95463a" />
-        <br />
-        <a href="https://job-portal-web-app-mauve.vercel.app/">🌐 Live Demo</a>
-        <br />
-        <p><small>JWT Auth • Dashboard • REST API</small></p>
-      </td>
-      <td width="33%" valign="top">
-        <h3>🤖 AI Resume Analyzer</h3>
-        <img width="1197" height="633" alt="image" src="https://github.com/user-attachments/assets/2a656331-e4b0-4b5e-993f-72ff9a52d040" />
-        <br />
-        <a href="https://ai-resume-analyzer-steel-beta.vercel.app/">🌐 Live Demo</a>
-        <br />
-         <p><small>ATS Score • AI Analysis • Skill Matching</small></p>
-      </td>
-      <td width="33%" valign="top">
-        <h3>🛒 E-Commerce</h3>
-        <img width="1260" height="612" alt="image" src="https://github.com/user-attachments/assets/67a886ed-1f18-47dc-b6c6-7af966e26021" />
-        <br />
-        <a href="https://grovo-grocery-store.vercel.app/">🌐 Live Demo</a>
-        <p><small>Cart • Auth • Product Flow</small></p>
-      </td>
-    </tr>
-  </table>
-  
-  <div align="center">
-  
-  <a href="https://github.com/chakrabortyanish?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+ <h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>💼 Job Portal Platform</h3>
+      <a href="https://job-portal-web-app-mauve.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3fd4a7fb-0c78-4ae6-93c8-c7987d95463a" width="100%" style="border-radius: 8px;" alt="Job Portal Preview" />
+      </a>
+      <p>Full-featured career platform with role-based access and real-time dashboard analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST-API-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dashboard-ready-green?style=flat-square" />
+      </p>
+      <a href="https://job-portal-web-app-mauve.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-🚀-0070f3?style=for-the-badge" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🤖 AI Resume Analyzer</h3>
+      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/2a656331-e4b0-4b5e-993f-72ff9a52d040" width="100%" style="border-radius: 8px;" alt="AI Resume Analyzer Preview" />
+      </a>
+      <p>Smart ATS scoring system paired with deep AI insights and candidate skill matching.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-Analysis-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/ATS-Score-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Skill-Match-teal?style=flat-square" />
+      </p>
+      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-🚀-0070f3?style=for-the-badge" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🛒 Grovo E-Commerce</h3>
+      <a href="https://grovo-grocery-store.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/67a886ed-1f18-47dc-b6c6-7af966e26021" width="100%" style="border-radius: 8px;" alt="Grovo E-Commerce Preview" />
+      </a>
+      <p>Modern grocery store application featuring seamless cart state and user checkout flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cart-Flow-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Auth-Secure-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Store-UI-yellow?style=flat-square" />
+      </p>
+      <a href="https://grovo-grocery-store.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-🚀-0070f3?style=for-the-badge" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/chakrabortyanish?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
-  
-  </div>
+</div>
   
   ---
   
-  ## 📊 GitHub Dashboard
+  <h2 align="center">📊 GitHub Analytics</h2>
   
   <div align="center">
   
@@ -195,19 +192,44 @@
   </div>
   
   --- -->
-  ## 🌱 Currently Learning
-  
-  <details open>
-    <summary><strong>Learning Roadmap</strong></summary>
-    <br />
-    <ul>
-      <li>Advanced Backend Architecture (Node.js + Microservices)</li>
-      <li>API Security (JWT, OAuth, Rate Limiting)</li>
-      <li>System Design Basics (Load Balancing, Caching, DB Scaling)</li>
-      <li>Full-stack scaling (React + Node + MongoDB)</li>
-      <li>Deployment (Docker, CI/CD, Cloudinary basics)</li>
-    </ul>
-  </details>
+<h2 align="center">🌱 Current Focus & Tech Roadmap</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Upskilling-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
+</div>
+
+<br />
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 Backend & Architecture</h3>
+      <ul>
+        <li><b>Microservices:</b> Decoupled services in Node.js</li>
+        <li><b>System Design:</b> Load balancing, caching (Redis), DB scaling</li>
+        <li><b>Security:</b> JWT, OAuth 2.0, RBAC & rate limiting</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ DevOps & Full-Stack Scale</h3>
+      <ul>
+        <li><b>Containerization:</b> Dockerizing full-stack apps</li>
+        <li><b>CI/CD:</b> GitHub Actions & automated testing</li>
+        <li><b>Database Optimization:</b> MongoDB indexing & query tuning</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
   
   ---
   
@@ -221,27 +243,24 @@
   
   --- -->
   
-  ## 📫 Connect With Me
+<h2 align="center">📬 Let's Connect</h2>
   
-  <div align="center">
-  
+<div align="center">
   <a href="https://github.com/chakrabortyanish">
-    <img src="https://img.shields.io/badge/GitHub-chakrabortyanish-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:chakrabortyanish981@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chakrabortyanish981%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  </div>
-  
-  ---
-  
-  <div align="center">
-  <strong>Thanks for visiting my profile.</strong>
-  </div>
+
+<img src="https://img.shields.io/badge/GitHub-chakrabortyanish-181717?style=for-the-badge&logo=github" alt="GitHub" />
+
+</a>
+
+<a href="mailto:chakrabortyanish981@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-chakrabortyanish981%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+</a>
+</div>
   
   <br />
 
 <div align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontAlignY=40&fontSize=20&fontColor=ffffff" alt="Footer Wave" />
 </div>
