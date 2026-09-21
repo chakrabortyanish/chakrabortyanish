@@ -262,5 +262,8 @@
   <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontAlignY=40&fontSize=20&fontColor=ffffff" alt="Footer Wave" />
+  <img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:0284c7,40:10b981,60:4f46e5,80:ec4899,100:7c3aed&height=120&section=footer&text=Thanks%20for%20visiting!&fontAlignY=40&fontSize=20&fontColor=ffffff&animation=fadeIn"
+  alt="Footer Wave"
+/>
 </div>
