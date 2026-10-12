@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,15:0284c7,30:10b981,45:84cc16,60:f59e0b,75:ef4444,90:ec4899,100:7c3aed&height=230&section=header&text=Anish%20Chakraborty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Passionate%20Learner&descAlignY=58&descSize=18" alt="GitHub Profile Banner" />
+<img width="2172" height="650" alt="image" src="https://github.com/user-attachments/assets/d521b3a9-e45e-40c4-a1e3-416ca69a5563" />
+<br/>
+<br/>
 <a href="https://github.com/chakrabortyanish">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38bdf8&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 </a>
@@ -261,9 +263,8 @@
   
   <br />
 
-<div align="center">
-  <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:0284c7,40:10b981,60:4f46e5,80:ec4899,100:7c3aed&height=120&section=footer&text=Thanks%20for%20visiting!&fontAlignY=40&fontSize=20&fontColor=ffffff&animation=fadeIn"
-  alt="Footer Wave"
-/>
-</div>
+<h2 align="center">
+  <span style="color:#00E5FF;">✨ Thank </span>
+  <span style="color:#C084FC;">You</span>
+  <span style="color:#FF29D9;"> 💜</span>
+</h2>
