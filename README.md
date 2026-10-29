@@ -1,5 +1,5 @@
 <div align="center">
-<img width="720" height="405" alt="converted_video (1)" src="https://github.com/user-attachments/assets/aab0286f-fff2-4a77-9f6d-57fbdbc1be9d" />
+<img width="100%" height="380" alt="Anish Chakraborty Banner" src="https://github.com/user-attachments/assets/aab0286f-fff2-4a77-9f6d-57fbdbc1be9d" />
 
 <br/>
 <br/>
