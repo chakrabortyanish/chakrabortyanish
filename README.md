@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2172" height="650" alt="image" src="https://github.com/user-attachments/assets/d521b3a9-e45e-40c4-a1e3-416ca69a5563" />
+<img width="100%" height="420" alt="image" src="https://github.com/user-attachments/assets/aa824582-983d-4b33-87bd-7925e2a449a7" />
 <br/>
 <br/>
 <a href="https://github.com/chakrabortyanish">
