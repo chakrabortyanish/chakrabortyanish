@@ -1,25 +1,10 @@
 <div align="center">
-<img width="100%" height="380" alt="Anish Chakraborty Banner" src="https://github.com/user-attachments/assets/aab0286f-fff2-4a77-9f6d-57fbdbc1be9d" />
+<img width="100%" height="340" alt="Anish Chakraborty Banner" src="https://github.com/user-attachments/assets/aab0286f-fff2-4a77-9f6d-57fbdbc1be9d" />
 
-<br/>
 <br/>
 <a href="https://github.com/chakrabortyanish">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38bdf8&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 </a>
-<!--
-<p>
-  <a href="https://github.com/chakrabortyanish?tab=followers">
-    <img src="https://img.shields.io/github/followers/chakrabortyanish?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/chakrabortyanish?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-7c3aed?style=for-the-badge&labelColor=0f172a" alt="GitHub Repositories" />
-  </a>
-  <a href="mailto:chakrabortyanish981@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=chakrabortyanish&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile Views" />
-</p>
--->
 </div>
 
 <br/>
@@ -113,62 +98,70 @@
 
 <table align="center" width="100%">
   <tr>
+    <!-- Project 1 -->
     <td width="33%" valign="top" align="center">
       <h3>💼 Job Portal Platform</h3>
       <a href="https://job-portal-web-app-mauve.vercel.app/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3fd4a7fb-0c78-4ae6-93c8-c7987d95463a" width="100%" style="border-radius: 8px;" alt="Job Portal Preview" />
+        <img src="https://github.com/user-attachments/assets/3fd4a7fb-0c78-4ae6-93c8-c7987d95463a" width="100%" alt="Job Portal Preview" />
       </a>
-      <p>Full-featured career platform with role-based access and real-time dashboard analytics.</p>
+      <p>Full-featured career platform with role-based access, candidate resume uploads, and recruiter dashboard analytics.</p>
       <p>
-        <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/REST-API-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dashboard-ready-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <a href="https://job-portal-web-app-mauve.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-🚀-0070f3?style=for-the-badge" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🤖 AI Resume Analyzer</h3>
-      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2a656331-e4b0-4b5e-993f-72ff9a52d040" width="100%" style="border-radius: 8px;" alt="AI Resume Analyzer Preview" />
-      </a>
-      <p>Smart ATS scoring system paired with deep AI insights and candidate skill matching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-Analysis-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/ATS-Score-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Skill-Match-teal?style=flat-square" />
-      </p>
-      <a href="https://ai-resume-analyzer-steel-beta.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-🚀-0070f3?style=for-the-badge" alt="Live Demo" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🛒 Grovo E-Commerce</h3>
-      <a href="https://grovo-grocery-store.vercel.app/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/67a886ed-1f18-47dc-b6c6-7af966e26021" width="100%" style="border-radius: 8px;" alt="Grovo E-Commerce Preview" />
-      </a>
-      <p>Modern grocery store application featuring seamless cart state and user checkout flow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Cart-Flow-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Auth-Secure-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Store-UI-yellow?style=flat-square" />
-      </p>
-      <a href="https://grovo-grocery-store.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-🚀-0070f3?style=for-the-badge" alt="Live Demo" />
-      </a>
-    </td>
+
+  <!-- Project 2 -->
+  <td width="33%" valign="top" align="center">
+    <h3>🤖 AI Resume Analyzer</h3>
+    <a href="https://ai-resume-analyzer-steel-beta.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/2a656331-e4b0-4b5e-993f-72ff9a52d040" width="100%" alt="AI Resume Analyzer Preview" />
+    </a>
+    <p>Smart ATS scoring system paired with deep AI insights, skill keyword matching, and automated candidate evaluation.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Engine-8E44AD?style=flat-square" />
+    </p>
+    <a href="https://ai-resume-analyzer-steel-beta.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+  </td>
+
+  <!-- Project 3 -->
+  <td width="33%" valign="top" align="center">
+    <h3>🛒 Grovo E-Commerce</h3>
+    <a href="https://grovo-grocery-store.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/67a886ed-1f18-47dc-b6c6-7af966e26021" width="100%" alt="Grovo E-Commerce Preview" />
+    </a>
+    <p>Full-stack grocery web app featuring interactive cart state, user auth, Razorpay payments, and admin controls.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Razorpay-02032C?style=flat-square&logo=razorpay&logoColor=blue" />
+    </p>
+    <a href="https://grovo-grocery-store.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+  </td>
   </tr>
 </table>
 
 <br />
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/chakrabortyanish?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
-</div>
-  
+</p>
+
   ---
   
   <h2 align="center">📊 GitHub Analytics</h2>
@@ -196,40 +189,52 @@
   --- -->
 <h2 align="center">🌱 Current Focus & Tech Roadmap</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Upskilling-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Upskilling-0070F3?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+</p>
 
 <br />
 
 <table align="center" width="100%">
   <tr>
+    <!-- Column 1 -->
     <td width="50%" valign="top">
-      <h3>🧱 Backend & Architecture</h3>
+      <h3 align="center">🧱 System Design & Architecture</h3>
+      <br />
       <ul>
-        <li><b>Microservices:</b> Decoupled services in Node.js</li>
-        <li><b>System Design:</b> Load balancing, caching (Redis), DB scaling</li>
-        <li><b>Security:</b> JWT, OAuth 2.0, RBAC & rate limiting</li>
+        <li><b>TypeScript:</b> Building strongly typed MERN applications</li>
+        <li><b>System Design:</b> Load balancing, caching, & DB scaling</li>
+        <li><b>Relational Databases:</b> SQL queries, JOINs, & ETL pipelines</li>
+        <li><b>Security:</b> JWT, OAuth 2.0, RBAC & API rate limiting</li>
       </ul>
-      <p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>☁️ DevOps & Full-Stack Scale</h3>
-      <ul>
-        <li><b>Containerization:</b> Dockerizing full-stack apps</li>
-        <li><b>CI/CD:</b> GitHub Actions & automated testing</li>
-        <li><b>Database Optimization:</b> MongoDB indexing & query tuning</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-    </td>
+
+  <!-- Column 2 -->
+  <td width="50%" valign="top">
+    <h3 align="center">☁️ DevOps & Scale</h3>
+    <br />
+    <ul>
+      <li><b>Containerization:</b> Dockerizing full-stack web applications</li>
+      <li><b>CI/CD Workflows:</b> Automated testing & GitHub Actions pipelines</li>
+      <li><b>NoSQL Optimization:</b> MongoDB indexing & aggregation pipelines</li>
+      <li><b>Cloud Storage:</b> Cloudinary & Multer integration for dynamic media</li>
+    </ul>
+    <br />
+    <p align="center">
+      <p align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+    </p>
+  </td>
   </tr>
 </table>
   
